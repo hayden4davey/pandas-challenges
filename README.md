@@ -1,6 +1,8 @@
 # pandas-challenges
 
-This analysis demonstrates there are a few clearly observable trends in this data.  First, the two main demographics represented in the dataset are male (just over 84%) and those between ages 20 and 24 (over 44%).  With the addition of the second and third most popular age categories (15-19 and 25-29 respectively), we see that over 76% of players are between the ages of 15 and 29.  So, I think it is safe to conclude that the player base for this game is mainly comprised of young men and teenagers.   
+1.
+
+The Heroes of Pymoli analysis demonstrates there are a few clearly observable trends in this data.  First, the two main demographics represented in the dataset are male (just over 84%) and those between ages 20 and 24 (over 44%).  With the addition of the second and third most popular age categories (15-19 and 25-29 respectively), we see that over 76% of players are between the ages of 15 and 29.  So, I think it is safe to conclude that the player base for this game is mainly comprised of young men and teenagers.   
 
 A second trend is evident in the purchasing analysis by gender.  Despite the game’s evident popularity with male players, they nonetheless tend to spend less on items in Heroes of Pymoli when compared to the other gender categories.  In fact, male players tend to spend less in total, as well as spend less per item on average.  In fact, the average price of an item bought by male players ($3.02) is below the average price of an item in the Pymoli store ($3.05).  Female gamers, on the other hand, spent $3.20 per item on average while non-disclosed/other gender players spent $3.35. 
 
